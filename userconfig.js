@@ -36,8 +36,8 @@ const default_config = {
           name: "Art Platforms",
           links: [
             {
-              name: "artistree",
-              url: "https://artistree.io/request/yonniboi",
+              name: "vgen",
+              url: "https://vgen.co/yonniboii",
               icon: "trees",
               icon_color: "#a9b665"
             },
@@ -60,6 +60,12 @@ const default_config = {
               icon_color: "#ea6962"
             },
             {
+              name: "bluesky (nsfw)",
+              url: "https://bsky.app/profile/yonsinbin.bsky.social",
+              icon: "sun",
+              icon_color: "#ea6962"
+            },
+            {
               name: "cara",
               url: "https://cara.app/yonni/all",
               icon: "cookie",
@@ -78,7 +84,7 @@ const default_config = {
               icon_color: "#d3cd7f"
             },
             {
-              name: "artfight",
+              name: "ko-fi",
               url: "https://ko-fi.com/yonni",
               icon: "coffee",
               icon_color: "#d83f3f"
